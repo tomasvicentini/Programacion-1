@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1572548417 source:c:\users\tomas\desktop\campus progra 1\clase 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcion.h"
+
+1572548461 c:\users\tomas\desktop\campus progra 1\clase 3\funcion.h
+	<stdio.h>
+	<stdlib.h>
+
+1572548423 source:c:\users\tomas\desktop\campus progra 1\clase 3\funcion.c
+	"funcion.h"
+

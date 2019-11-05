@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1572982305 source:c:\users\tomas\desktop\lenguaje c (actual)\clase 5\modificar numero\utn.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+
+1572982305 c:\users\tomas\desktop\lenguaje c (actual)\clase 5\modificar numero\utn.h
+

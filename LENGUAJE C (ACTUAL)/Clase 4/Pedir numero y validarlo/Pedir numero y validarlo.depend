@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1572707083 source:c:\users\tomas\desktop\lenguaje c (actual)\clase 4\pedir numero y validarlo\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1572716397 source:c:\users\tomas\desktop\lenguaje c (actual)\clase 4\pedir numero y validarlo\utn.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+
+1572716411 c:\users\tomas\desktop\lenguaje c (actual)\clase 4\pedir numero y validarlo\utn.h
+

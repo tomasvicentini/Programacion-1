@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1570481373 source:c:\users\tomas\desktop\ejercicios campus\adivina el numero\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1573162001 source:c:\users\tomas\desktop\agenda personas 200\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1573424059 source:c:\users\tomas\desktop\agenda personas 200\funcion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcion.h"
+
+1573424136 c:\users\tomas\desktop\agenda personas 200\funcion.h
+

@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1589805902 source:c:\users\tomas\desktop\utn remoto programacion\programacion\parcial 1 -----\cliente.c
+	<stdio.h>
+	<string.h>
+	"Cliente.h"
+
+1589745350 c:\users\tomas\desktop\utn remoto programacion\programacion\parcial 1 -----\cliente.h
+
+1589745004 source:c:\users\tomas\desktop\utn remoto programacion\programacion\parcial 1 -----\mascota.c
+	<stdio.h>
+	<string.h>
+	"Mascota.h"
+
+1589838609 c:\users\tomas\desktop\utn remoto programacion\programacion\parcial 1 -----\mascota.h
+
+1589745349 source:c:\users\tomas\desktop\utn remoto programacion\programacion\parcial 1 -----\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Cliente-Mascota.h"
+
+1589641808 c:\users\tomas\desktop\utn remoto programacion\programacion\parcial 1 -----\cliente.c
+	"Cliente.h"
+
+1589641613 c:\users\tomas\desktop\utn remoto programacion\programacion\parcial 1 -----\mascota.c
+	"Mascota.h"
+
+1589805902 source:c:\users\tomas\desktop\utn remoto programacion\programacion\parcial 1 -----\cliente-mascota.c
+	"Cliente-Mascota.h"
+	<stdio.h>
+	<string.h>
+
+1589744265 c:\users\tomas\desktop\utn remoto programacion\programacion\parcial 1 -----\cliente-mascota.h
+	"Cliente.h"
+	"Mascota.h"
+
+1589805902 source:c:\users\tomas\desktop\utn remoto programacion\programacion\parcial 2 ----- -\cliente.c
+	<stdio.h>
+	<string.h>
+	"Cliente.h"
+
+1589745350 c:\users\tomas\desktop\utn remoto programacion\programacion\parcial 2 ----- -\cliente.h
+
+1589745349 source:c:\users\tomas\desktop\utn remoto programacion\programacion\parcial 2 ----- -\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Cliente-Mascota.h"
+
+1589744265 c:\users\tomas\desktop\utn remoto programacion\programacion\parcial 2 ----- -\cliente-mascota.h
+	"Cliente.h"
+	"Mascota.h"
+
+1589838609 c:\users\tomas\desktop\utn remoto programacion\programacion\parcial 2 ----- -\mascota.h
+
+1589838835 source:c:\users\tomas\desktop\utn remoto programacion\programacion\parcial 2 ----- -\cliente-mascota.c
+	"Cliente-Mascota.h"
+	<stdio.h>
+	<string.h>
+
+1589838905 source:c:\users\tomas\desktop\utn remoto programacion\programacion\parcial 2 ----- -\mascota.c
+	<stdio.h>
+	<string.h>
+	"Mascota.h"
+
